@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`homework.resta 0 1`] = `0`;
+
+exports[`homework.resta 1 1`] = `230`;
+
+exports[`homework.resta 2 1`] = `30`;
+
+exports[`homework.resta 3 1`] = `346`;
+
+exports[`homework.resta 4 1`] = `260`;
+
+exports[`homework.resta 5 1`] = `NaN`;
+
+exports[`homework.suma 0 1`] = `510`;
+
+exports[`homework.suma 1 1`] = `80`;
+
+exports[`homework.suma 2 1`] = `321`;
+
+exports[`homework.suma 3 1`] = `350`;
+
+exports[`homework.suma 4 1`] = `140`;
+
+exports[`homework.suma 5 1`] = `NaN`;
